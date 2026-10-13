@@ -1,6 +1,6 @@
 # Tavern Game — Game Design Document
 
-**Status:** Design baseline; implementation has not started
+**Status:** Initial small scene implemented; runtime verification pending
 
 **Date:** 2026-10-13
 
